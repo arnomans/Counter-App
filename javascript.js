@@ -1,6 +1,15 @@
-let firstBatch = 20;
-let secondBatch = 30;
+let count = 50;
 
-let count = firstBatch + secondBatch;
+count = count + 50;
+
+console.log(count);
+
+
+count = count - 75;
+
+console.log(count);
+
+
+count = count + 50;
 
 console.log(count);
